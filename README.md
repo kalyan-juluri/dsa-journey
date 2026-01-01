@@ -6,11 +6,10 @@ This repository contains implementations of various data structures and algorith
 
 ## Getting Started
 
-You can clone this repository and compile the Java files using a Java compiler.
+You can clone this repository and run the tests using Maven.
 
 ```bash
-git clone <your-repository-url>
-cd DSA
-javac <your-file-name>.java
-java <your-file-name>
+git clone https://github.com/kalyan-juluri/dsa-journey.git
+cd dsa-journey
+mvn clean test
 ```
